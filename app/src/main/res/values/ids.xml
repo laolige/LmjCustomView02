@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="myslidelayout_leftmenu" type="id"></item>
+    <item name="myslidelayout_contentmenu" type="id"></item>
+    <item name="myslidelayout_bgmenu" type="id"></item>
+</resources>

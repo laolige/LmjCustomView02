@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MCircle">
+        <attr name="FirstR" format="dimension"></attr>
+        <attr name="UnitR" format="dimension"/>
+        <attr name="LineColor" format="color"/>
+        <attr name="AttrRectColor" format="color"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="textColor" format="color"/>
+    </declare-styleable>
+</resources>

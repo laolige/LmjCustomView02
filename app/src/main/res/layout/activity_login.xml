@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:fadeScrollbars="true">
+    <LinearLayout
+        android:id="@+id/ll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="160dp"
+                android:src="@drawable/bg"/>                   <!--这个其实是我放布局中间的控件，我随便写的，放任何控件都可以-->
+
+
+
+
+
+            <EditText
+                android:id="@+id/edit"
+                android:layout_width="200dp"
+                android:layout_height="60dp"
+                />
+
+
+            <Button
+                android:layout_marginTop="20dp"
+                android:gravity="center"
+                android:text="登录"
+                android:layout_width="200dp"
+                android:layout_height="50dp" />
+
+    </LinearLayout>
+</ScrollView>
